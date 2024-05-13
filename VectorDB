@@ -1,0 +1,37 @@
+What is a Vector Database & How Does it Work? Use Cases + Examples 
+link => https://www.pinecone.io/learn/vector-database/
+
+Embedding Model:
+link => https://www.pinecone.io/learn/series/rag/embedding-models-rundown/
+Types of Embedding:
+
+What is Vector?
+A vector database indexes and stores vector embeddings for fast retrieval and similarity search.
+=> Methamatic set of number's(numeric) called vector.
+
+Adavantages:
+1.Efficient Storage: Vector databases are optimized for storing large volumes of vector data efficiently, often using specialized data structures and compression techniques to minimize storage space.
+2.Fast Retrieval: They provide fast retrieval of vector data, enabling efficient querying and analysis operations.
+3.Vector Operations: Vector databases typically support various vector operations such as vector addition, scalar multiplication, dot product, and similarity search. These operations are fundamental for many applications that involve vector data, such as machine learning, data mining, and geographic information systems (GIS).
+4.Scalability: Vector databases are designed to scale horizontally to handle large volumes of vector data and high query loads. They can distribute data across multiple nodes or servers to improve performance and reliability.
+
+Use Cases of Vector Databases:
+1.Machine Learning and Data Science: Vector databases are used to store and manage feature vectors representing data points in machine learning models. They support operations such as nearest neighbor search, clustering, classification, and regression, which are essential for building and deploying machine learning models.
+2.Image and Video Processing: Vector databases are used to store and process images and videos represented as arrays of pixel values. They support operations such as image similarity search, object detection, and image classification, which are important for applications such as image and video retrieval, content-based image retrieval (CBIR), and video surveillance.
+3.Text Analysis and Natural Language Processing (NLP): In NLP applications, vector databases are used to store and process text documents represented as word embeddings or other vector representations. They support operations such as semantic search, document similarity analysis, and topic modeling, which are essential for tasks such as information retrieval, document clustering, and sentiment analysis.
+
+Benifits:
+1.Faster Search
+2.Optimized Storge
+
+What is Semantic Search?
+Semantic search refers to the process of how search engines understand and match keywords to a searcher's intent in organic search results.
+=> concepts of embedding
+=>
+
+VectorDB Example's: 
+1.Pinecone 
+2.Weaviate 
+3.Chroma 
+4.Redis 
+5.Qdrant
