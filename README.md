@@ -35,7 +35,7 @@ Overall Concept:
 => How do I retrieve the result from DB? Ans: cosine similarity 
 Nearby values should be return.
 
-<img width="959" alt="image" src="https://github.com/AravindrajB/VectorDB---Study-Material/assets/133504377/9eff1d4a-a7e6-44f8-939b-7edc7609eb66">
+<img width="922" alt="image" src="https://github.com/AravindrajB/VectorDB---Study-Material/assets/133504377/980e0ea6-5bfc-41f6-ad58-78a081d8a476">
 
 => cosine similarity
 
